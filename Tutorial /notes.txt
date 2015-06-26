@@ -1,0 +1,14 @@
+first i am going to review what i did yesterday
+The first step was installing node js and express, we ended up having to use the sudo code to install express globally 
+now we create a node test called john2 by typing in "express john2"
+now i will change the location of john 2 with finder, I wish i had a better way to do this. 
+now the next step is to edit the dependencies, this is done by changing the package.son file to add the dependencies we will use, it is very easy to make a mistake when entering the code. 
+next we solidify what we did by directing the program to install the dependencies though terminal. this is done by entering "npm install"
+i had trouble first going to the folder but then i realized that comp notes is a bad title because of the space so i renamed it COMPNOTES. 
+then it was easy 
+there were a lot of warnings but it seemed to work 
+still in the john2 folder i enter the command mkdir data, i don't know why but apparently it does something to save mongo db
+suddenly all my files in sublime disappeared but that was solved by reopening file 
+in the john 2 folder i type in nom start and then open the localhost:3000 in my browser. 
+okay now i am going to learn more about java script and stop the timer. 
+  
